@@ -1,16 +1,15 @@
-## Hi there 👋
+# Aravind Ravi
 
-<!--
-**aravindravi-research/aravindravi-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Software Engineer and independent researcher working on
+**distributed systems, AI control planes, and long-running conversational architectures**.
 
-Here are some ideas to get you started:
+My research focuses on system-level design for AI agents, including:
+- deterministic control planes for conversational systems
+- pre-inference intent routing and execution governance
+- hybrid neuro-symbolic approaches for safety and predictability
+- longitudinal memory and stateful AI architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am the author of *HNIR: A Deterministic Intent Routing Control Plane for Distributed Conversational Systems* (DOI registered).
+
+**Website:** https://raviaravind.com  
+**LinkedIn:** https://www.linkedin.com/in/iamaravind/
