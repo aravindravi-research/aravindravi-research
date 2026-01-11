@@ -1,6 +1,6 @@
 # Aravind Ravi
 
-Staff Software Engineer and independent researcher working on
+Staff Software Engineer and independent researcher focused on
 **distributed systems, AI control planes, and long-running conversational architectures**.
 
 My research focuses on system-level design for AI agents, including:
