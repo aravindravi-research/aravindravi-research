@@ -13,3 +13,5 @@ Author of HNIR: A Deterministic Intent Routing Control Plane for Distributed Con
 
 **Website:** https://raviaravind.com  
 **LinkedIn:** https://www.linkedin.com/in/iamaravind/
+
+This profile is used to publish research artifacts, design notes, and reference implementations related to ongoing work.
